@@ -1,6 +1,6 @@
 # webstorm-landing
 
-![screencap_final](https://github.com/andrewmartinn/landing-pages/assets/152824513/e0896192-1bab-4daf-98b0-53334b8c5d17)
+![screencap_final](https://github.com/andrewmartinn/landing-pages/assets/152824513/e5de119c-81eb-409d-9faf-c597f3cfb78b)
 
 Responsive landing page design for a fictional website builder and web hosting company.
 
